@@ -4,7 +4,7 @@
 #
 Name     : R-RcppTOML
 Version  : 0.1.7
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/RcppTOML_0.1.7.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RcppTOML_0.1.7.tar.gz
 Summary  : 'Rcpp' Bindings to Parser for Tom's Obvious Markup Language
